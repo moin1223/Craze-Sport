@@ -1,6 +1,5 @@
 import React , { useState, useEffect } from 'react';
 import SingleLeague from '../SingleLeague/SingleLeague';
-import Topbanner from'../../Photo/Topbanner.jpg';
 const Leagues = () => {
     const [ leagues, setLeagues] = useState([]);
     useEffect(() => {

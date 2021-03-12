@@ -20,7 +20,6 @@ function App() {
       <Route path="/league/:idLeague">
         <LeagueDetail/>
       </Route>
-
       </Switch>
       
     </Router>

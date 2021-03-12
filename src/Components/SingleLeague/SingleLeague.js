@@ -6,7 +6,7 @@ const SingleLeague = (props) => {
 
     return (
     
-        <div className="col-md-3 p-3 mx-3">
+        <div className="col-md-3 p-3 mx-3 col-lg-3 col-sm-12 ">
             <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src="holder.js/100px180" />
             <Card.Body>
